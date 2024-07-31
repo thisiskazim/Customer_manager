@@ -1,0 +1,52 @@
+﻿@model Ozgecmis
+@{
+	ViewData["Title"] = "Edit";
+	Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+<div class="row">
+	<div class="col-lg-12">
+
+		<div class="card">
+			<div class="card-body">
+				<h5 class="card-title">Düzenle</h5>
+
+				<!-- Vertical Form -->
+				<form class="row g-3" method="post">
+					<input type="text" asp-for="CustomerInfoId" class="form-control" id="inputNanme4" hidden>
+					<input type="text" asp-for="Id" class="form-control" id="inputNanme4" hidden>
+					<div class="col-12">
+						<label for="inputNanme4" class="form-label">Büyük Başlık</label>
+						<input type="text" asp-for="Title" class="form-control" id="inputNanme4">
+					</div>
+					<div class="col-12">
+						<label for="inputNanme4" class="form-label">Küçük Başlık</label>
+						<input type="text" asp-for="Title1" class="form-control" id="inputNanme4">
+					</div>
+					<div class="col-12">
+						<label for="inputNanme4" class="form-label">Başlangıç Yılı</label>
+						<input type="text" asp-for="YearStart" class="form-control" id="inputNanme4">
+					</div>
+					<div class="col-12">
+						<label for="inputNanme4" class="form-label">Bitiş Yılı</label>
+						<input type="text" asp-for="YearFinish" class="form-control" id="inputNanme4">
+					</div>
+					<div class="col-12">
+						<label for="inputAddress" class="form-label">Hakkımda yazısı</label>
+						<input type="text" asp-for="Description" class="form-control" id="inputAddress" placeholder="İçerik">
+					</div>
+					<div class="text-center">
+						<button type="submit" class="btn btn-primary">Kaydet</button>
+						<button type="reset" class="btn btn-secondary">İptal</button>
+					</div>
+				</form><!-- Vertical Form -->
+
+			</div>
+		</div>
+
+
+	</div>
+</div>
+

@@ -1,0 +1,62 @@
+﻿@model Customer_manager.Models.Customer_infos
+
+
+
+
+@*  tabloları buraya koyabiliriz  *@
+<div class="row">
+    <div class="col-lg-12">
+
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Sıkça Sorulan Sorular</h5>
+
+                <!-- Default Table -->
+                <table class="table">
+                    <thead>
+                    <th>@Html.ActionLink("Yeni Ekle", "Create", "SSS", null, new { @class = "btn btn-success", role = "button" })</th>
+
+                    <tr>
+
+
+                        <th scope="col">Soru</th>
+                        <th scope="col">Cevap</th>
+                        <th scope="col">İşlemler</th>
+
+
+                    </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var i in Model.SSS)
+                        {
+                            <tr>
+
+                                <td>@i.Soru</td>
+                                <td>@i.Cevap</td>
+                         
+
+                                <td>
+                                    <div style="display: inline-block;">
+                                        <a href="/SSS/edit/@i.ID" class="btn btn-success">Güncelle</a>
+                                    </div>
+                                    <div style="display: inline-block;">
+                                        <form id="deleteForm" action="/SSS/delete/@i.ID" method="post">
+                                            <button class="btn btn-danger" type="submit" onclick="return confirm('Silmek İstediğininze Emin misiniz?')">Sil</button>
+                                        </form>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+
+
+
+                    </tbody>
+                </table>
+
+                <!-- End Default Table Example -->
+            </div>
+        </div>
+
+    </div>
+</div>
+

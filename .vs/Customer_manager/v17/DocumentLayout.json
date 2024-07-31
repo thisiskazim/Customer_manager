@@ -1,0 +1,1032 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\models\\customer_infos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\models\\customer_infos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\controllers\\hizmetlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\controllers\\hizmetlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\register\\loginindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\register\\loginindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\models\\ozgecmis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\models\\ozgecmis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\controllers\\ozgecmiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\controllers\\ozgecmiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\ozgecmis\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\ozgecmis\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\portfolyo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\portfolyo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\portfolyo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\portfolyo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\ozgecmis\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\ozgecmis\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\about\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\about\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\about\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\about\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\hizmetler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\hizmetler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\wwwroot\\js\\icons.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\wwwroot\\js\\icons.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\hizmetler\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\hizmetler\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\hizmetler\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\hizmetler\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\controllers\\portfolyocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\controllers\\portfolyocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\portfolyo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\portfolyo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\models\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\models\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\customer_manager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\customer_manager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.SourceGenerators.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\migrations\\20240712000230_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\migrations\\20240712000230_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\models\\hizmetler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\models\\hizmetler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\models\\portfolyo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\models\\portfolyo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\migrations\\20240712124405_updatecustomerkeyrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\migrations\\20240712124405_updatecustomerkeyrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\models\\sss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\models\\sss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\models\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\models\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\skills\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\skills\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\skills\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\skills\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\sss\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\sss\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\sss\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\sss\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\skills\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\skills\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\controllers\\ssscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\controllers\\ssscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\sss\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\sss\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\controllers\\skillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\controllers\\skillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\ozgecmis\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\ozgecmis\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\migrations\\20240712122224_updatecustumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\migrations\\20240712122224_updatecustumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\wwwroot\\niceadmin\\niceadmin\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\wwwroot\\niceadmin\\niceadmin\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\wwwroot\\devfolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\wwwroot\\devfolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\wwwroot\\niceadmin\\niceadmin\\pages-login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\wwwroot\\niceadmin\\niceadmin\\pages-login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|c:\\users\\ferhat\\source\\repos\\customer_manager\\customer_manager\\wwwroot\\niceadmin\\niceadmin\\pages-register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDCE0C97-3E24-4F5A-8F84-6CF5BE384F2D}|Customer_manager\\Customer_manager.csproj|solutionrelative:customer_manager\\wwwroot\\niceadmin\\niceadmin\\pages-register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAQwGMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T07:10:03.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Customer_manager\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:09:31.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Customer_manager\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T21:19:34.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer_infos.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Models\\Customer_infos.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Models\\Customer_infos.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Models\\Customer_infos.cs",
+              "RelativeToolTip": "Customer_manager\\Models\\Customer_infos.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:17:14.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Customer_manager\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwEMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:22:49.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T21:19:58.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAAoBAAAAAAAAAAAAABYBAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T13:30:59.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HizmetlerController.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Controllers\\HizmetlerController.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Controllers\\HizmetlerController.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Controllers\\HizmetlerController.cs",
+              "RelativeToolTip": "Customer_manager\\Controllers\\HizmetlerController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwDsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T23:02:30.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Customer_manager\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAgwF8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T22:30:04.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Register\\Index.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\Register\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Register\\Index.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\Register\\Index.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAF0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T22:33:50.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Register\\LoginIndex.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\Register\\LoginIndex.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Register\\LoginIndex.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\Register\\LoginIndex.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAFYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T22:45:29.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ozgecmis.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Models\\Ozgecmis.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Models\\Ozgecmis.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Models\\Ozgecmis.cs",
+              "RelativeToolTip": "Customer_manager\\Models\\Ozgecmis.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T12:00:50.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Models\\Contact.cs",
+              "RelativeToolTip": "Customer_manager\\Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:44:19.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Models\\Customers.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Models\\Customers.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Models\\Customers.cs",
+              "RelativeToolTip": "Customer_manager\\Models\\Customers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:12:15.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Customer_manager\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA3wA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T22:16:06.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OzgecmisController.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Controllers\\OzgecmisController.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Controllers\\OzgecmisController.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Controllers\\OzgecmisController.cs",
+              "RelativeToolTip": "Customer_manager\\Controllers\\OzgecmisController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:28:25.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\About\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T10:29:34.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Ozgecmis\\Index.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\Ozgecmis\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Ozgecmis\\Index.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\Ozgecmis\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T11:29:30.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Portfolyo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\Portfolyo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Portfolyo\\Index.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\Portfolyo\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T13:34:06.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Portfolyo\\Create.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\Portfolyo\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Portfolyo\\Create.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\Portfolyo\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T13:46:53.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Ozgecmis\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\Ozgecmis\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Ozgecmis\\Edit.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\Ozgecmis\\Edit.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T11:36:10.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\About\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\About\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\About\\Edit.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\About\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T11:17:52.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\About\\Create.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\About\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\About\\Create.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\About\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T11:31:18.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Customer_manager\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwDsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:26:21.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Hizmetler\\Index.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\Hizmetler\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Hizmetler\\Index.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\Hizmetler\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T23:05:21.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Hizmetler\\Create.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\Hizmetler\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Hizmetler\\Create.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\Hizmetler\\Create.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAswDQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T23:46:08.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Hizmetler\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\Hizmetler\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Hizmetler\\Edit.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\Hizmetler\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T16:05:53.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "icons.js",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\wwwroot\\js\\icons.js",
+              "RelativeDocumentMoniker": "Customer_manager\\wwwroot\\js\\icons.js",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\wwwroot\\js\\icons.js",
+              "RelativeToolTip": "Customer_manager\\wwwroot\\js\\icons.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-28T14:02:43.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Portfolyo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\Portfolyo\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Portfolyo\\Edit.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\Portfolyo\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T13:49:44.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PortfolyoController.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Controllers\\PortfolyoController.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Controllers\\PortfolyoController.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Controllers\\PortfolyoController.cs",
+              "RelativeToolTip": "Customer_manager\\Controllers\\PortfolyoController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAswGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:32:33.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Program.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Program.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Program.cs",
+              "RelativeToolTip": "Customer_manager\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:09:47.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Models\\About.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Models\\About.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Models\\About.cs",
+              "RelativeToolTip": "Customer_manager\\Models\\About.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:42:54.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Customer_manager.csproj",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Customer_manager.csproj",
+              "RelativeDocumentMoniker": "Customer_manager\\Customer_manager.csproj",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Customer_manager.csproj",
+              "RelativeToolTip": "Customer_manager\\Customer_manager.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-01T22:50:03.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Microsoft.NET.Sdk.Razor.SourceGenerators.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.SourceGenerators.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.SourceGenerators.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.SourceGenerators.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.SourceGenerators.targets",
+              "ViewState": "AQIAACUAAAAAAAAAAAD4vyoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-27T14:45:46.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T07:11:27.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T11:26:01.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T07:11:32.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T07:11:32.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240712000230_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Migrations\\20240712000230_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Migrations\\20240712000230_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Migrations\\20240712000230_InitialCreate.cs",
+              "RelativeToolTip": "Customer_manager\\Migrations\\20240712000230_InitialCreate.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAQwL8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T00:04:27.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Hizmetler.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Models\\Hizmetler.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Models\\Hizmetler.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Models\\Hizmetler.cs",
+              "RelativeToolTip": "Customer_manager\\Models\\Hizmetler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T12:07:10.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\appsettings.json",
+              "RelativeDocumentMoniker": "Customer_manager\\appsettings.json",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\appsettings.json",
+              "RelativeToolTip": "Customer_manager\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T22:14:17.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Customer_manager\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T22:59:34.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Portfolyo.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Models\\Portfolyo.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Models\\Portfolyo.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Models\\Portfolyo.cs",
+              "RelativeToolTip": "Customer_manager\\Models\\Portfolyo.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA3wBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T12:09:52.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20240712124405_UpdateCustomerKeyRelation.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Migrations\\20240712124405_UpdateCustomerKeyRelation.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Migrations\\20240712124405_UpdateCustomerKeyRelation.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Migrations\\20240712124405_UpdateCustomerKeyRelation.cs",
+              "RelativeToolTip": "Customer_manager\\Migrations\\20240712124405_UpdateCustomerKeyRelation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:48:30.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SSS.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Models\\SSS.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Models\\SSS.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Models\\SSS.cs",
+              "RelativeToolTip": "Customer_manager\\Models\\SSS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T12:12:34.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Skills.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Models\\Skills.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Models\\Skills.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Models\\Skills.cs",
+              "RelativeToolTip": "Customer_manager\\Models\\Skills.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:46:19.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Skills\\Create.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\Skills\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Skills\\Create.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\Skills\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T14:05:16.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Skills\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\Skills\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Skills\\Edit.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\Skills\\Edit.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T13:53:53.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\SSS\\Index.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\SSS\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\SSS\\Index.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\SSS\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T13:58:14.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\SSS\\Create.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\SSS\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\SSS\\Create.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\SSS\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T13:59:50.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Skills\\Index.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\Skills\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Skills\\Index.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\Skills\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T13:51:47.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SSSController.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Controllers\\SSSController.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Controllers\\SSSController.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Controllers\\SSSController.cs",
+              "RelativeToolTip": "Customer_manager\\Controllers\\SSSController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:57:18.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SkillsController.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Controllers\\SkillsController.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Controllers\\SkillsController.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Controllers\\SkillsController.cs",
+              "RelativeToolTip": "Customer_manager\\Controllers\\SkillsController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:55:37.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\SSS\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\SSS\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\SSS\\Edit.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\SSS\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T14:00:54.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Ozgecmis\\Create.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\Ozgecmis\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Ozgecmis\\Create.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\Ozgecmis\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T11:39:46.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Contact\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\Contact\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Contact\\Edit.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\Contact\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T11:33:45.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Contact\\Create.cshtml",
+              "RelativeDocumentMoniker": "Customer_manager\\Views\\Contact\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Views\\Contact\\Create.cshtml",
+              "RelativeToolTip": "Customer_manager\\Views\\Contact\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T11:38:19.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20240712122224_updateCustumer.cs",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Migrations\\20240712122224_updateCustumer.cs",
+              "RelativeDocumentMoniker": "Customer_manager\\Migrations\\20240712122224_updateCustumer.cs",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\Migrations\\20240712122224_updateCustumer.cs",
+              "RelativeToolTip": "Customer_manager\\Migrations\\20240712122224_updateCustumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:29:51.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\wwwroot\\NiceAdmin\\NiceAdmin\\index.html",
+              "RelativeDocumentMoniker": "Customer_manager\\wwwroot\\NiceAdmin\\NiceAdmin\\index.html",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\wwwroot\\NiceAdmin\\NiceAdmin\\index.html",
+              "RelativeToolTip": "Customer_manager\\wwwroot\\NiceAdmin\\NiceAdmin\\index.html",
+              "ViewState": "AQIAAHwEAAAAAAAAAAAIwKMEAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-07T21:20:03.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\wwwroot\\DevFolio\\index.html",
+              "RelativeDocumentMoniker": "Customer_manager\\wwwroot\\DevFolio\\index.html",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\wwwroot\\DevFolio\\index.html",
+              "RelativeToolTip": "Customer_manager\\wwwroot\\DevFolio\\index.html",
+              "ViewState": "AQIAAGkDAAAAAAAAAAAIwJADAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-03T22:27:26.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "pages-login.html",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\wwwroot\\NiceAdmin\\NiceAdmin\\pages-login.html",
+              "RelativeDocumentMoniker": "Customer_manager\\wwwroot\\NiceAdmin\\NiceAdmin\\pages-login.html",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\wwwroot\\NiceAdmin\\NiceAdmin\\pages-login.html",
+              "RelativeToolTip": "Customer_manager\\wwwroot\\NiceAdmin\\NiceAdmin\\pages-login.html",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAIwIYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-01T22:45:41.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "pages-register.html",
+              "DocumentMoniker": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\wwwroot\\NiceAdmin\\NiceAdmin\\pages-register.html",
+              "RelativeDocumentMoniker": "Customer_manager\\wwwroot\\NiceAdmin\\NiceAdmin\\pages-register.html",
+              "ToolTip": "C:\\Users\\ferhat\\source\\repos\\Customer_manager\\Customer_manager\\wwwroot\\NiceAdmin\\NiceAdmin\\pages-register.html",
+              "RelativeToolTip": "Customer_manager\\wwwroot\\NiceAdmin\\NiceAdmin\\pages-register.html",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAIwJIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-01T22:42:18.554Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+﻿@model Customer_manager.Models.Customer_infos
+
+
+
+@*  tabloları buraya koyabiliriz  *@
+<div class="row">
+    <div class="col-lg-12">
+
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Özgeçmiş</h5>
+
+                <!-- Default Table -->
+                <table class="table">
+                    <thead>
+                    <th>@Html.ActionLink("Yeni Özgeçmiş Ekle", "Create", "Ozgecmis", null, new { @class = "btn btn-success", role = "button" })</th>
+
+                    <tr>
+
+
+                        <th scope="col">Büyük Başlık</th>
+                        <th scope="col">Küçük Başlık</th>
+                        <th scope="col">Başlangıç/Bitiş Yıl</th>
+                        <th scope="col">Yazı</th>
+                        <th scope="col">İşlemler</th>
+
+
+                    </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var i in Model.Ozgecmis)
+                        {
+                            <tr>
+
+                                <td>@i.Title</td>
+                                <td>@i.Title1</td>
+                                <td>@i.YearStart / @i.YearFinish</td>
+
+                                <td class="description">@i.Description</td>
+                                <td>
+                                    <div style="display: inline-block;">
+                                        <a href="/ozgecmis/edit/@i.Id" class="btn btn-success">Güncelle</a>
+                                    </div>
+                                    <div style="display: inline-block;">
+                                        <form id="deleteForm" action="/ozgecmis/delete/@i.Id" method="post">
+                                            <button class="btn btn-danger" type="submit" onclick="return confirm('Silmek İstediğininze Emin misiniz?')">Sil</button>
+                                        </form>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+
+
+
+                    </tbody>
+                </table>
+
+                <!-- End Default Table Example -->
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const descriptions = document.querySelectorAll('.description');
+        descriptions.forEach(description => {
+            const text = description.textContent;
+            const maxLength = 20;
+            if (text.length > maxLength) {
+                const shortText = text.substring(0, maxLength) + '... ';
+                const readMoreLink = document.createElement('a');
+                readMoreLink.href = "#";
+                readMoreLink.textContent = "Devamını Oku";
+                readMoreLink.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    description.textContent = text;
+                });
+                description.textContent = shortText;
+                description.appendChild(readMoreLink);
+            }
+        });
+    });
+</script>
+
+<style>
+    .description {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 300px; /* Gereken genişliğe göre ayarlayabilirsiniz */
+    }
+
+        .description a {
+            color: blue;
+            text-decoration: none;
+        }
+
+            .description a:hover {
+                text-decoration: underline;
+            }
+</style>
+              

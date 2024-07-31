@@ -1,0 +1,62 @@
+﻿@model Customer_manager.Models.Customer_infos
+
+
+
+
+@*  tabloları buraya koyabiliriz  *@
+<div class="row">
+    <div class="col-lg-12">
+
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">İletişim</h5>
+
+                <!-- Default Table -->
+                <table class="table">
+                    <thead>
+                    <th>@Html.ActionLink("Yeni İletişim Ekle", "Create", "Contact", null, new { @class = "btn btn-success", role = "button" })</th>
+
+                    <tr>
+
+
+                        <th scope="col">Adress</th>
+                        <th scope="col">Telefon</th>
+                        <th scope="col">İşlemler</th>
+
+
+                    </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var i in Model.Contact)
+                        {
+                            <tr>
+
+                                <td>@i.Address</td>
+                                <td>@i.Phone</td>
+                          
+
+                                <td>
+                                    <div style="display: inline-block;">
+                                        <a href="/contact/edit/@i.ID" class="btn btn-success">Güncelle</a>
+                                    </div>
+                                    <div style="display: inline-block;">
+                                        <form id="deleteForm" action="/contact/delete/@i.ID" method="post">
+                                            <button class="btn btn-danger" type="submit" onclick="return confirm('Silmek İstediğininze Emin misiniz?')">Sil</button>
+                                        </form>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+
+
+
+                    </tbody>
+                </table>
+
+                <!-- End Default Table Example -->
+            </div>
+        </div>
+
+    </div>
+</div>
+

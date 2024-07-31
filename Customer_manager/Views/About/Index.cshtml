@@ -1,0 +1,106 @@
+﻿@model Customer_manager.Models.Customer_infos
+
+
+
+@*  tabloları buraya koyabiliriz  *@
+<div class="row">
+    <div class="col-lg-12">
+
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Hakkımda</h5>
+
+                <!-- Default Table -->
+                <table class="table">
+                    <thead>
+                        @if (Model.About.Count == 0)
+                        {
+                        <th>@Html.ActionLink("Yeni Hakkımda Ekle", "Create", "About", null, new { @class = "btn btn-success", role = "button" })</th>
+
+                        }
+
+                    <tr>
+
+
+                        <th scope="col">Fotoğraf</th>    
+                        <th scope="col">İçerik</th>
+                        <th scope="col">İşlemler</th>
+
+
+                    </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var i in Model.About)
+                        {
+                            <tr>
+
+                                <td>
+
+                                    <img src="@i.PhotoPath" alt="Fotoğraf" style="width: 100px; height: auto;" />
+
+
+                                </td>
+                                <td class="description">@i.Description</td>
+
+                                <td>
+                                    <div style="display: inline-block;">
+                                        <a href="/about/edit/@i.ID" class="btn btn-success">Güncelle</a>
+                                    </div>
+                             
+                                </td>
+                            </tr>
+                        }
+
+
+
+                    </tbody>
+                </table>
+
+                <!-- End Default Table Example -->
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const descriptions = document.querySelectorAll('.description');
+        descriptions.forEach(description => {
+            const text = description.textContent;
+            const maxLength = 200;
+            if (text.length > maxLength) {
+                const shortText = text.substring(0, maxLength) + '... ';
+                const readMoreLink = document.createElement('a');
+                readMoreLink.href = "#";
+                readMoreLink.textContent = "Devamını Oku";
+                readMoreLink.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    description.textContent = text;
+                });
+                description.textContent = shortText;
+                description.appendChild(readMoreLink);
+            }
+        });
+    });
+</script>
+
+<style>
+    .description {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 500px; /* Gereken genişliğe göre ayarlayabilirsiniz */
+    }
+
+        .description a {
+            color: blue;
+            text-decoration: none;
+        }
+
+            .description a:hover {
+                text-decoration: underline;
+            }
+</style>
