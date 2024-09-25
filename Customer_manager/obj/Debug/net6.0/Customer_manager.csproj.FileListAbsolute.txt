@@ -248,3 +248,4 @@ C:\Users\ferhat\source\repos\Customer_manager\Customer_manager\obj\Debug\net6.0\
 C:\Users\ferhat\source\repos\Customer_manager\Customer_manager\obj\Debug\net6.0\Customer_manager.pdb
 C:\Users\ferhat\source\repos\Customer_manager\Customer_manager\obj\Debug\net6.0\Customer_manager.genruntimeconfig.cache
 C:\Users\ferhat\source\repos\Customer_manager\Customer_manager\obj\Debug\net6.0\ref\Customer_manager.dll
+C:\Users\ferhat\source\repos\Customer_manager\Customer_manager\obj\Debug\net6.0\Customer_manager.sourcelink.json

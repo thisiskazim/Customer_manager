@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Customer_manager"
+    "\\Customer_manager",
+    "\\Customer_manager\\Views",
+    "\\Customer_manager\\Views\\Home"
   ],
-  "SelectedNode": "\\Customer_manager.sln",
+  "SelectedNode": "\\Customer_manager\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
